@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samkelo Mvelase
 - 👀 I’m interested in Software development/Engineering, Data Science 
      and Artificial Intelligence
-- 🌱 I’m currently learning Python and Web Development
+- 🌱 I’m currently improving my Python and Web Development skills
 - ✔  I am a Computer Systems Engineering Graduate 
 - 🎨 Skills: C++, HTML CSS & JavaScript, PYTHON, PHP
 - 🦺 Worked with RaspBerry Pi and Arduino and familiar with Assembly 
