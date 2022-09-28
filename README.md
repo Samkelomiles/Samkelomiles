@@ -3,7 +3,7 @@
      and Artificial Intelligence
 - 🌱 I’m currently improving my Python and Web Development skills
 - ✔  I am a Computer Systems Engineering Graduate 
-- 🎨 Skills: C++, HTML CSS & JavaScript, PYTHON, PHP
+- 🎨 Skills: C++, HTML CSS & JavaScript, PYTHON, PHP, Java
 - 🦺 Worked with RaspBerry Pi and Arduino and familiar with Assembly 
  
 📫 How to reach me: 
